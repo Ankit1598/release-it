@@ -12,11 +12,5 @@
 		"release": true,
 		"releaseName": "v${version}",
 		"tokenRef": "GITHUB_TOKEN"
-	},
-	"plugins": {
-		"@release-it-plugins/lerna-changelog": {
-			"infile": "CHANGELOG.md",
-			"launchEditor": false
-		}
 	}
 }
