@@ -1,5 +1,12 @@
 
 
+### [0.2.1](https://github.com/AnkitC1598/release-it/compare/v0.2.0...v0.2.1) (2022-10-18)
+
+
+### Bug Fixes
+
+* tokenRef ([8382006](https://github.com/AnkitC1598/release-it/commit/83820064fc9ddba441ea87856d17428290aa951b))
+
 ## [0.2.0](https://github.com/AnkitC1598/release-it/compare/v0.1.5...v0.2.0) (2022-10-18)
 
 
