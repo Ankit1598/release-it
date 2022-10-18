@@ -23,20 +23,44 @@
 						"section": "Features"
 					},
 					{
-						"type": "revert",
-						"section": "Revert"
+						"type": "fix",
+						"section": "Bug Fixes"
 					},
 					{
 						"type": "docs",
 						"section": "Documentation"
 					},
 					{
-						"type": "refactor",
-						"section": "Code Refactor"
+						"type": "style",
+						"section": "Styles"
 					},
 					{
-						"type": "fix",
-						"section": "Bug Fixes"
+						"type": "refactor",
+						"section": "Code Refactoring"
+					},
+					{
+						"type": "perf",
+						"section": "Performance Improvements"
+					},
+					{
+						"type": "test",
+						"section": "Tests"
+					},
+					{
+						"type": "build",
+						"section": "Builds"
+					},
+					{
+						"type": "ci",
+						"section": "Continuous Integrations"
+					},
+					{
+						"type": "chore",
+						"section": "Chores"
+					},
+					{
+						"type": "revert",
+						"section": "Reverts"
 					}
 				]
 			}
