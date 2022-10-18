@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.6.1](https://github.com/AnkitC1598/release-it/compare/v0.6.0...v0.6.1) (2022-10-18)
+
+
+### ⚙️ Continuous Integrations
+
+* postinstall script update ([e40ff19](https://github.com/AnkitC1598/release-it/commit/e40ff1979737cf991c451cadb60bef10ef662db3))
+
 ## [0.6.0](https://github.com/AnkitC1598/release-it/compare/v0.5.1...v0.6.0) (2022-10-18)
 
 
