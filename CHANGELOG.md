@@ -1,3 +1,12 @@
+
+
+## [0.2.0](https://github.com/AnkitC1598/release-it/compare/v0.1.5...v0.2.0) (2022-10-18)
+
+
+### Features
+
+* plugin  update ([43992be](https://github.com/AnkitC1598/release-it/commit/43992be590f2575389f3c32c4f3b57ec1d2a1122))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
