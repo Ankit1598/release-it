@@ -1,5 +1,12 @@
 
 
+### [0.4.1](https://github.com/AnkitC1598/release-it/compare/v0.4.0...v0.4.1) (2022-10-18)
+
+
+### 💎 Styles
+
+* plugin type emoji fix ([0c205ca](https://github.com/AnkitC1598/release-it/commit/0c205ca2febe7742ea92917a19cb05fe4a823342))
+
 ## [0.4.0](https://github.com/AnkitC1598/release-it/compare/v0.3.0...v0.4.0) (2022-10-18)
 
 
