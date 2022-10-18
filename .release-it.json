@@ -31,6 +31,10 @@
 						"section": "Documentation"
 					},
 					{
+						"type": "refactor",
+						"section": "Code Refactor"
+					},
+					{
 						"type": "fix",
 						"section": "Bug Fixes"
 					}
