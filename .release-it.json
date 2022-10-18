@@ -13,21 +13,9 @@
 		"releaseName": "v${version}"
 	},
 	"plugins": {
-		"@release-it/conventional-changelog": {
+		"release-it-lerna-changelog": {
 			"infile": "CHANGELOG.md",
-			"preset": {
-				"name": "conventionalcommits",
-				"types": [
-					{
-						"type": "feat",
-						"section": "Features"
-					},
-					{
-						"type": "fix",
-						"section": "Bug Fixes"
-					}
-				]
-			}
+			"launchEditor": true
 		}
 	}
 }
