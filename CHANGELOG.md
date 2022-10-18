@@ -1,3 +1,12 @@
+
+
+## [0.4.0](https://github.com/AnkitC1598/release-it/compare/v0.3.0...v0.4.0) (2022-10-18)
+
+
+### Features :sparkles:
+
+* prev commits ([914fa75](https://github.com/AnkitC1598/release-it/commit/914fa758a1623e3b7d8542bc58c6065a6bfc6367))
+
 # [0.3.0](https://github.com/AnkitC1598/release-it/compare/v0.2.2...v0.3.0) (2022-10-18)
 
 
@@ -165,6 +174,3 @@
 ### Features
 
 * autoRelease workflow added ([25fce6b](https://github.com/AnkitC1598/release-it/commit/25fce6b3085740dec88b7d3601c42f0712d83b5e))
-
-
-
