@@ -23,6 +23,10 @@
 						"section": "Features"
 					},
 					{
+						"type": "revert",
+						"section": "Revert"
+					},
+					{
 						"type": "fix",
 						"section": "Bug Fixes"
 					}
