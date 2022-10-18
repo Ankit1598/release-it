@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.6.0](https://github.com/AnkitC1598/release-it/compare/v0.5.1...v0.6.0) (2022-10-18)
+
+
+### * Chores
+
+* **husky,prettier:** setup ([702773a](https://github.com/AnkitC1598/release-it/commit/702773a80dcfd529f754b324521511a26508484d))
+* **husky:** husky commit msg validator hook ([b3fb141](https://github.com/AnkitC1598/release-it/commit/b3fb141c876078615832ba22805a9e499a679437))
+* **husky:** husky commit msg validator hook ([dfcbfcb](https://github.com/AnkitC1598/release-it/commit/dfcbfcb8ec3912c85fc012d7bf2895bc3b6d8f34))
+* **husky:** husky commit msg validator hook ([1708536](https://github.com/AnkitC1598/release-it/commit/17085367934e09ca1bae6c85f43e9f5b7ca45e18))
+
+
+### ✨ Features
+
+* husky hook update, commitlint, prettier ([1f577b6](https://github.com/AnkitC1598/release-it/commit/1f577b664dc672beb2514c9e3359b6f7217efafb))
+
 ### [0.5.1](https://github.com/AnkitC1598/release-it/compare/v0.5.0...v0.5.1) (2022-10-18)
 
 ### 📦 Code Refactoring
