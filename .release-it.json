@@ -34,11 +34,11 @@
 					},
 					{
 						"type": "style",
-						"section": "💎 Styles"
+						"section": "🎨 Styles"
 					},
 					{
 						"type": "refactor",
-						"section": "📦 Code Refactoring"
+						"section": ":recycle: Code Refactoring"
 					},
 					{
 						"type": "perf",
@@ -58,11 +58,31 @@
 					},
 					{
 						"type": "chore",
-						"section": "♻️ Chores"
+						"section": "* Chores"
 					},
 					{
 						"type": "revert",
-						"section": "🗑 Reverts"
+						"section": "⏪ Reverts"
+					},
+					{
+						"type": "deprecate",
+						"section": "☠️ Deprecated"
+					},
+					{
+						"type": "security",
+						"section": "🔐 Security"
+					},
+					{
+						"type": "remove",
+						"section": "🗑️ Security"
+					},
+					{
+						"type": "upgrade",
+						"section": "⬆️ Packages Upgrades"
+					},
+					{
+						"type": "wip",
+						"section": "🚧 Work In Progress"
 					}
 				]
 			}
