@@ -1,3 +1,12 @@
+
+
+# [0.3.0](https://github.com/AnkitC1598/release-it/compare/v0.2.2...v0.3.0) (2022-10-18)
+
+
+### Features
+
+* angular test ([de63386](https://github.com/AnkitC1598/release-it/commit/de633864233da82a047629554c426b04a7f209db))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
