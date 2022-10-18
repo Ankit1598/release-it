@@ -7,6 +7,8 @@
 
 * plugin types ([2870e28](https://github.com/AnkitC1598/release-it/commit/2870e28581de9274091bb0094fced365f53b24e3))
 
+## v0.1.3 (2022-10-18)
+
 ## v0.1.2 (2022-10-18)
 
 ## [0.1.0](https://github.com/AnkitC1598/release-it/compare/v0.0.12...v0.1.0) (2022-10-18)
