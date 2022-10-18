@@ -1,4 +1,11 @@
+# Changelog
 
+### [0.5.1](https://github.com/AnkitC1598/release-it/compare/v0.5.0...v0.5.1) (2022-10-18)
+
+
+### 📦 Code Refactoring
+
+* changelog header ([1b359aa](https://github.com/AnkitC1598/release-it/commit/1b359aaf42e00021e20b2c8ebdf30b7c4c03b303))
 
 ## [0.5.0](https://github.com/AnkitC1598/release-it/compare/v0.4.1...v0.5.0) (2022-10-18)
 
