@@ -1,5 +1,12 @@
 
 
+## [0.5.0](https://github.com/AnkitC1598/release-it/compare/v0.4.1...v0.5.0) (2022-10-18)
+
+
+### ✨ Features
+
+* asd ([b3d8df6](https://github.com/AnkitC1598/release-it/commit/b3d8df683f387410d57622ed2865b669c5772c55))
+
 ### [0.4.1](https://github.com/AnkitC1598/release-it/compare/v0.4.0...v0.4.1) (2022-10-18)
 
 
