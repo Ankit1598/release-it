@@ -10,7 +10,7 @@
 # [0.3.0](https://github.com/AnkitC1598/release-it/compare/v0.2.2...v0.3.0) (2022-10-18)
 
 
-### Features
+### ✨ Features
 
 * angular test ([de63386](https://github.com/AnkitC1598/release-it/commit/de633864233da82a047629554c426b04a7f209db))
 
@@ -19,7 +19,7 @@
 ## [0.2.2](https://github.com/AnkitC1598/release-it/compare/v0.2.1...v0.2.2) (2022-10-18)
 
 
-### Reverts
+### 🐛 Reverts
 
 * no clog ([ede505b](https://github.com/AnkitC1598/release-it/commit/ede505b962d3367f108e98814e2ca1c1f0544ab5))
 

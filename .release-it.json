@@ -18,49 +18,50 @@
 			"infile": "CHANGELOG.md",
 			"preset": {
 				"name": "conventionalcommits",
-				"types": [{
+				"types": [
+					{
 						"type": "feat",
-						"section": "Features :sparkles:"
+						"section": "✨ Features"
 					},
 					{
 						"type": "fix",
-						"section": "Bug Fixes"
+						"section": "🐛 Bug Fixes"
 					},
 					{
 						"type": "docs",
-						"section": "Documentation"
+						"section": "📚 Documentation"
 					},
 					{
 						"type": "style",
-						"section": "Styles"
+						"section": "💎 Styles"
 					},
 					{
 						"type": "refactor",
-						"section": "Code Refactoring"
+						"section": "📦 Code Refactoring"
 					},
 					{
 						"type": "perf",
-						"section": "Performance Improvements"
+						"section": "🚀 Performance Improvements"
 					},
 					{
 						"type": "test",
-						"section": "Tests"
+						"section": "🚨 Tests"
 					},
 					{
 						"type": "build",
-						"section": "Builds"
+						"section": "🛠 Builds"
 					},
 					{
 						"type": "ci",
-						"section": "Continuous Integrations"
+						"section": "⚙️ Continuous Integrations"
 					},
 					{
 						"type": "chore",
-						"section": "Chores"
+						"section": "♻️ Chores"
 					},
 					{
 						"type": "revert",
-						"section": "Reverts"
+						"section": "🗑 Reverts"
 					}
 				]
 			}
