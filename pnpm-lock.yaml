@@ -7,6 +7,7 @@ specifiers:
   '@types/react-dom': 18.0.5
   autoprefixer: ^10.4.7
   husky: ^8.0.1
+  is-ci: ^3.0.1
   lint-staged: ^13.0.3
   next: latest
   postcss: ^8.4.14
@@ -28,6 +29,7 @@ devDependencies:
   '@types/react-dom': 18.0.5
   autoprefixer: 10.4.12_postcss@8.4.18
   husky: 8.0.1
+  is-ci: 3.0.1
   lint-staged: 13.0.3
   postcss: 8.4.18
   prettier: 2.7.1
@@ -356,6 +358,10 @@ packages:
       fsevents: 2.3.2
     dev: true
 
+  /ci-info/3.5.0:
+    resolution: {integrity: sha512-yH4RezKOGlOhxkmhbeNuC4eYZKAUsEaGtBuBzDDP1eFUKiccDWzBABxBfOx31IDwDIXMTxWuwAxUGModvkbuVw==}
+    dev: true
+
   /clean-stack/2.2.0:
     resolution: {integrity: sha512-4diC9HaTE+KRAMWhDhrGOECgWZxoevMc5TlkObMqNSsVU62PYzXZ/SMTjzyGAFF1YusgxGcSWTEXBhp0CPwQ1A==}
     engines: {node: '>=6'}
@@ -603,6 +609,13 @@ packages:
     engines: {node: '>=8'}
     dependencies:
       binary-extensions: 2.2.0
+    dev: true
+
+  /is-ci/3.0.1:
+    resolution: {integrity: sha512-ZYvCgrefwqoQ6yTyYUbQu64HsITZ3NfKX1lzaEYdkTDcfKzzCI/wthRRYKkdjHKFVgNiXKAKm65Zo1pk2as/QQ==}
+    hasBin: true
+    dependencies:
+      ci-info: 3.5.0
     dev: true
 
   /is-core-module/2.10.0:

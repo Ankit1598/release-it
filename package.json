@@ -6,13 +6,13 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"prepare": "husky install",
+		"prepare": "is-ci || husky install",
 		"release": "release-it",
-		"lint": "prettier --config prettier.config.js \"**/*.{js,ts,jsx,tsx}\" --write --ignore-unknown",
+		"lint": "prettier --config prettier.config.js \"**/*.{js,ts,jsx,tsx,json}\" --write --ignore-unknown",
 		"postinstall": "npm run prepare && npm run lint"
 	},
 	"lint-staged": {
-		"**/*.{js,ts,jsx,tsx}": "prettier --write --ignore-unknown"
+		"**/*.{js,ts,jsx,tsx,json}": "prettier --write --ignore-unknown"
 	},
 	"dependencies": {
 		"next": "latest",
@@ -26,6 +26,7 @@
 		"@types/react-dom": "18.0.5",
 		"autoprefixer": "^10.4.7",
 		"husky": "^8.0.1",
+		"is-ci": "^3.0.1",
 		"lint-staged": "^13.0.3",
 		"postcss": "^8.4.14",
 		"prettier": "^2.7.1",
