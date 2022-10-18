@@ -10,7 +10,8 @@
 	},
 	"github": {
 		"release": true,
-		"releaseName": "v${version}"
+		"releaseName": "v${version}",
+		"tokenRef": "GITHUB_TOKEN"
 	},
 	"plugins": {
 		"@release-it-plugins/lerna-changelog": {
