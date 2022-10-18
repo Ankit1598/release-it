@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.6.2](https://github.com/AnkitC1598/release-it/compare/v0.6.1...v0.6.2) (2022-10-18)
+
+
+### ⚙️ Continuous Integrations
+
+* conditional husky install on ci ([67f05c0](https://github.com/AnkitC1598/release-it/commit/67f05c050a1bf6f509d19f811ef40c4f3583c04f))
+
 ### [0.6.1](https://github.com/AnkitC1598/release-it/compare/v0.6.0...v0.6.1) (2022-10-18)
 
 
