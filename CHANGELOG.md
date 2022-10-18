@@ -1,5 +1,7 @@
 
 
+### [0.0.10](https://github.com/AnkitC1598/release-it/compare/v0.0.9...v0.0.10) (2022-10-18)
+
 ### [0.0.9](https://github.com/AnkitC1598/release-it/compare/0.0.8...v0.0.9) (2022-10-18)
 
 
