@@ -7,7 +7,9 @@
 		"build": "next build",
 		"start": "next start",
 		"prepare": "husky install",
-		"release": "release-it"
+		"release": "release-it",
+		"lint": "prettier --config prettier.config.js \"**/*.{js,ts,jsx,tsx}\" --write --ignore-unknown",
+		"postinstall": "husky install && npm run lint"
 	},
 	"lint-staged": {
 		"**/*.{js,ts,jsx,tsx}": "prettier --write --ignore-unknown"
