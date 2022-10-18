@@ -1,5 +1,25 @@
 
 
+## [0.1.0](https://github.com/AnkitC1598/release-it/compare/v0.0.12...v0.1.0) (2022-10-18)
+
+
+### Features
+
+* changelog plugin change ([54a8a3a](https://github.com/AnkitC1598/release-it/commit/54a8a3ac8aaebb7d2d663d8d40896b78aa344c62))
+* changelog plugin change ([7a782fa](https://github.com/AnkitC1598/release-it/commit/7a782fa2f01199737d508c250a81b30bcd63b7b3))
+* changelog plugin change ([2d6054b](https://github.com/AnkitC1598/release-it/commit/2d6054b29f46e564ba1a8f5dbbdfd4b9e8e022a9))
+
+
+### Bug Fixes
+
+* changelog plugin change ([0c4061a](https://github.com/AnkitC1598/release-it/commit/0c4061a7f7fced51bd0994fb0f3fbafe885dffc7))
+
+
+### Code Refactor
+
+* asd ([85b5f5c](https://github.com/AnkitC1598/release-it/commit/85b5f5cf6e5549d81ee7e56e066aee7a04aed9c6))
+* asd ([479f209](https://github.com/AnkitC1598/release-it/commit/479f2099cdc83891d4f9d6f87f83d83f0e0002ee))
+
 ### [0.0.12](https://github.com/AnkitC1598/release-it/compare/v0.0.11...v0.0.12) (2022-10-18)
 
 * revert: (e73bd82)
