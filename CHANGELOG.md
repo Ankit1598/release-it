@@ -1,3 +1,48 @@
+
+
+### [0.0.9](https://github.com/AnkitC1598/release-it/compare/0.0.8...v0.0.9) (2022-10-18)
+
+
+### Bug Fixes
+
+* temp ([0c36fbc](https://github.com/AnkitC1598/release-it/commit/0c36fbc15178612108ece47ec194bdc2aa2df3fb))
+
+### [0.0.8](https://github.com/AnkitC1598/release-it/compare/0.0.7...0.0.8) (2022-10-17)
+
+### [0.0.7](https://github.com/AnkitC1598/release-it/compare/0.0.6...0.0.7) (2022-10-17)
+
+
+### Features
+
+* changelog added ([4fb4fe7](https://github.com/AnkitC1598/release-it/commit/4fb4fe742803b4113a204f2004236b61406a0269))
+
+### [0.0.6](https://github.com/AnkitC1598/release-it/compare/0.0.5...0.0.6) (2022-10-17)
+
+### [0.0.5](https://github.com/AnkitC1598/release-it/compare/0.0.4...0.0.5) (2022-10-17)
+
+### [0.0.4](https://github.com/AnkitC1598/release-it/compare/0.0.3...0.0.4) (2022-10-17)
+
+
+### Bug Fixes
+
+* autoRelease script spacing ([3fad60b](https://github.com/AnkitC1598/release-it/commit/3fad60b4dc42b93487379fbe23c669fecf736a52))
+
+### [0.0.3](https://github.com/AnkitC1598/release-it/compare/0.0.2...0.0.3) (2022-10-17)
+
+### [0.0.2](https://github.com/AnkitC1598/release-it/compare/0.0.1...0.0.2) (2022-10-17)
+
+
+### Bug Fixes
+
+* autoRelease script regex fix ([1f90224](https://github.com/AnkitC1598/release-it/commit/1f90224d378cba87f16ed4d240101062c1f5898b))
+
+### [0.0.1](https://github.com/AnkitC1598/release-it/compare/25fce6b3085740dec88b7d3601c42f0712d83b5e...0.0.1) (2022-10-17)
+
+
+### Features
+
+* autoRelease workflow added ([25fce6b](https://github.com/AnkitC1598/release-it/commit/25fce6b3085740dec88b7d3601c42f0712d83b5e))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
